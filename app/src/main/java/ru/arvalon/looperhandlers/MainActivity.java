@@ -16,6 +16,7 @@ import android.widget.Toast;
 import java.util.concurrent.TimeUnit;
 
 /**
+ * Tutorials:
  * https://blog.nikitaog.me/2014/10/11/android-looper-handler-handlerthread-i/
  * https://blog.nikitaog.me/2014/10/18/android-looper-handler-handlerthread-ii/
  */
