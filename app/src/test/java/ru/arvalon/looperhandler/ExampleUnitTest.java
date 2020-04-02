@@ -1,4 +1,4 @@
-package com.example.student.looperhandler;
+package ru.arvalon.looperhandler;
 
 import org.junit.Test;
 
